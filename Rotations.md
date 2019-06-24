@@ -1,0 +1,7 @@
+AB
+AC
+AD
+BD
+(A)BC
+(A)CD
+ABCD
