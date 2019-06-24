@@ -1,8 +1,8 @@
 ## r
-1pu
-2ms
-3sp
-4ut
+1pu  
+2ms  
+3sp  
+4ut  
 
 ## bo
 8 p
