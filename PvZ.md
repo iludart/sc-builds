@@ -12,19 +12,19 @@
 27 f
 28 a
 29 c
-32 pp cc
+32 pp c
 36 a
 38 s HK5 
-    ~ c z +1 +1 (450 300)
+    ~ c c z +1 +1 (600 300)
 42 c g HK7 (300 100)
     ~ l
 48 t gg HK89 (450 200)
     ~ p 2t (300 500)
 ~ r gg HK678 (500 200)
 ~ +2 f (300 150)
-~ o gg c (500 250)
+~ o gg ch (500 250)
 ~ n
-~ gggg s s c
+~ gggg ss sd rc
 ~ nn
 
 2G S
