@@ -7,6 +7,8 @@ p n
 p ss
 pp gg a // 4g
 pp cita ff
-ppp ls +1 +1 ta
-ppp storm gggg // 8g
-ppp n +2 +2
+pp +1 +1 ls ta
+ppp storm gg // 6g
+ppp n +2 +2 ccc 
+ppp te ggg ggg // 12g
+ppp n

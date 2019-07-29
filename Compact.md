@@ -1,27 +1,40 @@
 p g
 p n
-p f a core
-p c s
-p cc +1 +1
-p cit g
-pp ta ls f gg //4g
-pp ps tt +2 +1
-ppp r gggg //8g
-ppp o dr te
+p f a c core
+p s cc
+p +1 +1 
+p cita g // 2g
+pp ls ta gg f // 4g
+pp storm tt +2 +1
+pp robo gggg // 8g
+ppp o charge te
 ppp n
-ppp gggg //12g
-u: os ss +3x sd sc
+ppp gggg // 12g
 
 p g a core
-p sc
-p n r
+p charge
+p n robo
 p gg // 3g
 p o
 pp n
-pp a f c
-pp +1 ls ggg // 6g
+pp a f cita
+pp ls +1 ggg // 6g
 ppp ta s f
-ppp at +2 +1
-ppp n as
-ppp gggggg // 12g
-u: +3x ar ae ps te ss
+ppp at n
+ppp ar +2 +1
+ppp ggg ggg // 12g
+
+p g a
+p core
+p charge robo
+p o g // 2g
+p rsb
+p n
+p ss
+pp gg a // 4g
+pp cita ff
+pp +1 +1 ls ta
+ppp storm gg // 6g
+ppp n +2 +2 ccc 
+ppp te ggg ggg // 12g
+ppp n
