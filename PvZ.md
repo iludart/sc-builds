@@ -1,59 +1,14 @@
-## r
-1pu
-2ms
-3sp
-4ut
+storm te charge +2 +1 4n 12g 21p
 
-## bo
-8 p
-10 g HK5
-12 p
-21 n F3
-27 f
-28 a
-29 c
-32 pp c
-36 a
-38 s HK5 
-    ~ c c z +1 +1 (600 300)
-42 c g HK7 (300 100)
-    ~ l
-48 t gg HK89 (450 200)
-    ~ p 2t (300 500)
-~ r gg HK678 (500 200)
-~ +2 f (300 150)
-~ o gg ch (500 250)
-~ n
-~ gggg ss sd rc
-~ nn
-
-2G S
-+6s (+10s)
-2z c = 350 100
-1z 1t c = 300 250
-2t c = 250 400
-
-3G S
-+8s (+12s)
-
-4G S
-+10s (+14s)
-4z 1c = 550 100
-3z 1c 1t = 500 250
-2z 1c 2t = 450 400
-1z 1c 3t = 400 550
-1c 4t = 350 700
-
-5G S
-+12s (+16s)
-
-8G
-+16s (+22s)
-8d = 1000 400
-8z = 800
-4z 4t = 600 600
-4d 4t = 500 800
-o = 25 75
-
-12G
-+24s
+p g
+p n
+p f a c core
+p s a cc
+p +1 +1
+p cita g // 2g
+pp ta ls gg f // 4g
+pp storm tt +2 +1
+pp r gggg // 8g
+ppp o charge te
+ppp n
+ppp gggg // 12g

@@ -1,3 +1,5 @@
+ss storm te +2 +2 4n 12g 25p
+
 p g a
 p core
 p charge robo

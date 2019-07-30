@@ -1,12 +1,12 @@
 p g
 p n
 p f a c core
-p s cc
-p +1 +1 
+p s a cc
+p +1 +1
 p cita g // 2g
-pp ls ta gg f // 4g
+pp ta ls gg f // 4g
 pp storm tt +2 +1
-pp robo gggg // 8g
+pp r gggg // 8g
 ppp o charge te
 ppp n
 ppp gggg // 12g
