@@ -1,4 +1,4 @@
-storm te charge +2 +1 4n 12g 21p
+storm te charge +2 +1 4n 12g 24p
 
 p g
 p n
@@ -12,3 +12,4 @@ pp r gggg // 8g
 ppp o charge te
 ppp n
 ppp gggg // 12g
+ppp n

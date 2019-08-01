@@ -1,4 +1,4 @@
-ss storm te +2 +2 4n 12g 25p
+charge ss ls storm te +2 +2 4n 12g 25p
 
 p g a
 p core
@@ -9,7 +9,7 @@ p n
 p ss
 pp gg a // 4g
 pp cita ff
-pp +1 +1 ls ta
+pp ta +1 +1 ls
 ppp storm gg // 6g
 ppp n +2 +2 ccc 
 ppp te ggg ggg // 12g
